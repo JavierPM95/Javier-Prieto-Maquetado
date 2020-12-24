@@ -1,4 +1,4 @@
-/* Glider JS Config */
+/* Glider JS Config  */
 
 window.addEventListener("load", () => {
   new Glider(document.querySelector(".carouselItems"), {
