@@ -2,4 +2,4 @@
 
 ### First look
 ___
-<img src="githubSrc/Vivienda-Verde-Test-CV.png">
+<img src="GithubSrc/Vivienda-Verde-Test-CV.png">
